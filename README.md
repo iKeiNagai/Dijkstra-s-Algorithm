@@ -56,6 +56,10 @@ Rename for simplicity
 
 ## Hadoop Installation 
 
+Documentation
+
+    https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html
+
 Download Hadoop - visit (https://downloads.apache.org/hadoop) for latest version
 
     wget https://downloads.apache.org/hadoop/common/hadoop-3.x.x/hadoop-3.x.x.tar.gz
